@@ -1,0 +1,11 @@
+{
+    "api": {
+        "key": "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",
+        "endpoint": "https://api.openai.com/v1/chat/completions",
+        "retries": 3,
+        "timeout": 10,
+        "temperature": 0.70
+    },
+    "delay": 0.02,
+    "prompt": "Ответ давай смайликами в ASCII"
+}
